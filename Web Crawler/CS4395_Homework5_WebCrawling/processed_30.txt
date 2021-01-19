@@ -1,0 +1,15 @@
+b"b'                     / Yoast SEO Premium plugin."
+b'Skip to content           .site-branding       Toggle navigation       News   Newswire  Licensing & Advertising  News Investigations    Intelligence   Reporting  Methodology  Technology    About   Press  Careers    Resources   Blog  Case Studies        #site-navigation       #masthead                       A News and Intelligence Agency  Learn more       Start Making Sense  We make sense of the new information environment for news and business partners.'
+b'Full Name   Please provide your first name.'
+b'Last Name   Please provide your last name.'
+b'Title   Please provide your title (n/a if none).'
+b'Company   Please provide company name (n/a if none).'
+b'Storyful Pillar   Areas of Business*  News  Intelligence   Please select a Areas of Business.'
+b'Select   Region*  US  EMEA  APAC   Please select a region.'
+b'Email   Please provide a valid email.'
+b'Phone     Message   Please include a message.'
+b'By submitting your information you allow us to contact you.'
+b'You must agree before submitting     Please prove that you are human.'
+b'Submit            Subscribe for Updates  Receive a notification each time we publish a new post.'
+b'people should not fill these in and expect good things       real people should not fill this in and expect good things - do not remove this or risk form bot signups      Subscribe     News   Intelligence           .entry-content    #post-163    #main    #primary     #content                  Company   About  Resources  Terms of Use  Privacy Policy      News   Newswire  Licensing & Advertising  Investigations      Intelligence   Reporting  Methodology  Technology       Social Media    Twitter    Facebook    LinkedIn    Instagram    YouTube           .site-footer-head     .site-footer    #page             Cookies This website uses cookies to ensure you get the best experience on our website.'
+b"More Information Accept   #catapult-cookie-bar   '"

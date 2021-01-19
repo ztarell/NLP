@@ -1,0 +1,3 @@
+b"b'<!"
+b'[endif]                        [if lt IE 9]> <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><!'
+b"All Rights Reserved      end #inner-footer      end footer      end #container    wpcom_wp_footer                 '"
