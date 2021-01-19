@@ -1,0 +1,88 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day"],
+         "responses": ["Hello, thanks for visiting", "Good to see you again", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye"],
+         "responses": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."],
+         "context_set": ""
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"],
+         "context_set": ""
+        },
+        {"tag": "home",
+         "patterns": ["I am looking for a home.", "Facts about homes.", "I want to own a home." ],
+         "responses": ["So you want a home? Did you know, 61.4% of the average American family's net worth is in home equity."],
+         "context_set": ""
+        },
+        {"tag": "buy",
+         "patterns": ["Facts about buying.", "I am looking to buy.", "Owning a home.", "What do I buy?", "What can I buy?"],
+         "responses": ["In 2013, NAR reported that the median age of first-time buyers was 31. On average these buyers purchased a 1,670 square-foot home costing $170,000.", "80% of people aged 65 and older own their own homes."],
+         "context_set": ""
+        },
+        {"tag": "sell",
+         "patterns": ["Homes for sale.", "Sell a house.", "Sale price.", "Selling a house.", "I want to sell."],
+         "responses": ["If you are selling, the best day of the week to list your home for sale is on a Friday.", "You want to sell? Did you know the median sale price of a home is $328,419 in the United States.", "We love selling, the number of homes sold above their original listing price is 32%."],
+         "context_set": ""
+        },
+        {"tag": "rates",
+         "patterns": ["Anything about mortgage rates?", "How are interest rates?", "Housing taxes?" ],
+         "responses": ["The average mortgage interest rate in the United States is 3.21%.", "Dallas, Texas has the highest employment rate in the United States."],
+         "context_set": ""
+        },
+        {"tag": "marketplace",
+         "patterns": ["How is the marketplace?", "Housing market.", "Metropolitan cities." ],
+         "responses": ["The three most competitive cities in the U.S. housing market are Tacoma, WA, Grand Rapids, MI, and Spokane, WA.", "The three fastest growing metropolitan cities in the U.S. housing market are Cleveland, OH, Memphis, TN, and Toms River, NJ."],
+         "context_set": ""
+        },
+        {"tag": "new",
+         "patterns": ["New homes", "New location", "Updated numbers" ],
+         "responses": ["In 2019, the number of homes sold was 652,878 in the United States.", "The number of American homes newly listed on the market is 691,785.", "In 2019, the number of American homes that went up for sale was 1,066,903."],
+         "context_set": ""
+        },
+        {"tag": "insights",
+         "patterns": ["Insights", "Advantages", "News about homes", "Analytics" ],
+         "responses": ["A large amount of people have relocated from California to Texas within the past couple of years."],
+         "context_set": ""
+        },
+        {"tag": "property",
+         "patterns": ["Rental properties", "Property for sale", "I want property", "Property costs"],
+         "responses": ["The two most important benefits of owning rental properties is generating cash flow and earning value from appreciation."],
+         "context_set": ""
+        },
+        {"tag": "area",
+         "patterns": ["Homes in the area", "Moving to new area", "Facts about the area" ],
+         "responses": ["North Carolina is leading the United States in millennial population.", "On average, 500 people move to Atlanta, Georgia every day.", "Houston, Texas is the fourth largest city in the United States by population."],
+         "context_set": ""
+        },
+          {"tag": "rent",
+         "patterns": ["Rental landlord", "Rental properties", "I am looking to rent."],
+         "responses": ["A homeowner's net worth is over thirty times greater than that of a renter.", "Rental properties often guarantee a steady rate of return on your investment.", "52.9% of Dallas, Texas residents are renters vs. the national average of 33%."],
+         "context_set": ""
+        },
+        {"tag": "information",
+         "patterns": ["Information about housing", "State and local average", "Jobs and hiring" ],
+         "responses": ["52.9% of Dallas, Texas residents are renters vs. the national average of 33%."],
+         "context_set": ""
+        },
+        {"tag": "funFact",
+         "patterns": ["Tell me something.", "I want to know a fun fact.", "Give me a fun fact"],
+         "responses": ["Having a mortgage will strengthen your credit!", "More than six in 10 Americans are homeowners.", "Home prices tend to go up over time, which also contributes to wealth gains."],
+         "context_set": ""
+        },
+        {"tag": "purpose",
+         "patterns": ["What can you do?", "What are you?", "What do you do?"],
+         "responses": ["I give out fun facts about the housing industry.", "I can provide information for you about owning or renting property!"],
+         "context_set": ""
+        },
+        {"tag": "feeling",
+         "patterns": ["How are you?", "How do you do?", "Are you okay?"],
+         "responses": ["I am feeling great, thanks!", "I am excited to be here!"],
+         "context_set": ""
+        }
+   ]
+}
